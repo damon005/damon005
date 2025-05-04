@@ -5,11 +5,9 @@
 ## 🚀 About Me
 
 - 🎓 I recently graduated with a degree in B.E Computer Science from M.I.E.T Engineering College.
-- 👀 I’m interested in ... Gaming,Coding and Graphics design.
 - 🌱 Currently enhancing my skills in Spring Boot, Microservices, and Cloud Technologies (AWS/GCP).
 - 💡 I love building web applications that solve real-world problems.
 - 📫 How to reach me: vijayaprabu005@gmail.com | [LinkedIn] https://www.linkedin.com/in/vijayaprabu05/
-
 
 ## 🛠️ Tech Stack
 
@@ -29,11 +27,6 @@
 
 **Database:**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)  
-
-
-## 📈 GitHub Stats
-
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 _Thanks for visiting my profile! 😊_
